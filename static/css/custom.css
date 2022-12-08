@@ -106,6 +106,9 @@ body::before {
 }
 
 @media (min-width: 768px) {
+  .navbar .container .navbar-brand img {
+    width: 80%;
+  }
   .news-input {
     width: 50%;
   }
