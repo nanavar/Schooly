@@ -17,6 +17,11 @@ body::before {
   height: 60px;
 }
 
+.my-link {
+  color: #ffc107 !important;
+  text-decoration: none;
+}
+
 .navbar-toggler {
   width: 20px;
   height: 20px;
